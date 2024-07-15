@@ -1,1 +1,2 @@
+roboflow==1.1.34
 ultralytics==8.2.58
